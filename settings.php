@@ -1,0 +1,7 @@
+<?php
+	$REQUIRE_ADMIN_APPROVAL = 1;
+	$ADMIN_LEVEL_APPROVE = 1;
+
+	$DATABASE = ;
+	$TABLE_USERS = "webuser";
+?>
