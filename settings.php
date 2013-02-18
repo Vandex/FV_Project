@@ -1,7 +1,8 @@
 <?php
+	//approval login system (in the works)
 	$REQUIRE_ADMIN_APPROVAL = 1;
-	$ADMIN_LEVEL_APPROVE = 1;
+	$ADMIN_LEVEL_APPROVE = 2;
 
-	$DATABASE = ;
+	$DATABASE = "fillin";
 	$TABLE_USERS = "webuser";
 ?>
