@@ -1,4 +1,4 @@
-<?php
+<?php //database connection
 $mysql = array();
 
 $mysql['host'] = "localhost";

@@ -1,4 +1,4 @@
-function showUser(value)
+function showUser(value) //ajax, can use it in own project
 {
 	if (value=="")
 	  {
